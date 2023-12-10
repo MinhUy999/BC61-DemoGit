@@ -1,0 +1,2 @@
+1. khởi tạo thư mục dự án localRepossitory: git init
+2. sử dụng lệnh để dưa các file và các sự thay đổi lên khu vực staging area
